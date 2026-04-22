@@ -1,3 +1,6 @@
+## 🚀 Live Demo
+👉 [Click here to try the Movie Recommendation System](https://movie-recommendation-system-asqlepvxydlcq9grydcvud.streamlit.app)
+
 # 🎬 Movie Recommendation System
 
 A content-based movie recommendation system built using Machine Learning and Streamlit.
